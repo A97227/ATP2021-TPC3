@@ -22,3 +22,5 @@ __Resumo__ :
   
  Assim tive a lista toda ordenada e so precisei de fazer 1 print.
  
+ Professor: José Carlos Ramalho- http://www.di.uminho.pt/~jcr/
+ 
